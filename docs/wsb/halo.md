@@ -14,11 +14,11 @@
 
 1. 新建文件夹，此文档以 `~/gdhalo` 为例。
 
-```bash
-mkdir ~/gdhalo && cd ~/gdhalo
-```
+    ```bash
+    mkdir ~/gdhalo && cd ~/gdhalo
+    ```
 
-> **注意：**后续操作中，Halo 产生的所有数据都会保存在这个目录，请妥善保存。
+    > **注意：**后续操作中，Halo 产生的所有数据都会保存在这个目录，请妥善保存。
 
 2. 创建 docker-compose.yml
 
@@ -42,18 +42,18 @@ mkdir ~/gdhalo && cd ~/gdhalo
         ports:
           - "8090:8090"
         healthcheck:
-          test: ["CMD", "curl", "-f", "http://localhost:8090/    actuator/health/readiness"]
+          test: ["CMD", "curl", "-f", "http://localhost:8090/actuator/health/readiness"]
           interval: 30s
           timeout: 5s
           retries: 5
           start_period: 30s
         environment:
-          # JVM 参数，默认为 -Xmx256m -Xms256m，可以根据实际情况做    调整，置空表示不添加 JVM 参数
+          # JVM 参数，默认为 -Xmx256m -Xms256m，可以根据实际情况做调整，置空表示不添加 JVM 参数
           - JVM_OPTS=-Xmx256m -Xms256m
         command:
           - --spring.r2dbc.url=r2dbc:pool:mysql://halodb:3306/halo
           - --spring.r2dbc.username=root
-          # MySQL 的密码，请保证与下方 MYSQL_ROOT_PASSWORD 的变量值    一致。
+          # MySQL 的密码，请保证与下方 MYSQL_ROOT_PASSWORD 的变量值一致。
           # - --spring.r2dbc.password=o#DwN&JSa56
           - --spring.r2dbc.password=rootmd8
           - --spring.sql.init.platform=mysql
@@ -74,7 +74,7 @@ mkdir ~/gdhalo && cd ~/gdhalo
           - ./mysql:/var/lib/mysql
           - ./mysqlBackup:/data/mysqlBackup
         healthcheck:
-          test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1",     "--silent"]
+          test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "--silent"]
           interval: 3s
           retries: 5
           start_period: 30s
@@ -90,13 +90,13 @@ mkdir ~/gdhalo && cd ~/gdhalo
 
 3. 启动 Halo 服务
 
-```bash
-~/gdhalo % docker compose up
-```
-
-可以看到屏幕输出很多信息，并最终启动成功。
-
-> 运行调测正常后，要执行 `docker compose up -d` 命令以后台方式运行。
+    ```bash
+    ~/gdhalo % docker compose up
+    ```
+    
+    可以看到屏幕输出很多信息，并最终启动成功。
+    
+    > 运行调测正常后，要执行 `docker compose up -d` 命令以后台方式    运行。
 
 
 
