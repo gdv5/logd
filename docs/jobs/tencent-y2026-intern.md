@@ -1,12 +1,25 @@
 ---
 title: 腾讯2026实习生招聘技术提前批正式启动！
+slug: jobs-tencent-y2026-intern
+excerpt: 腾讯2026实习生招聘技术提前批
+categories:
+  - 实习岗位
+tags: []
+halo:
+  site: http://8.152.199.10:8090
+  name: e6546d64-f52c-4f71-a555-3e0012cead54
+  publish: true
+---
+
+<!-- ---
+title: 腾讯2026实习生招聘技术提前批正式启动！
 author: gdv5
 editor: gdv5
 last-update: 2026-01-28
 firt-on: 2026-01-28
----
+--- -->
 
-# 腾讯2026实习生招聘技术提前批正式启动！
+<!-- # 腾讯2026实习生招聘技术提前批正式启动！ -->
 
 `更新：26-01-29` \| `发布：26-01-28`
 

@@ -1,24 +1,27 @@
 ---
-title: hikvision-camhr-y26
-slug: hikvision-camhr-y26
-categories: []
+title: 海康威视2026校园招聘岗位(未完待续)
+slug: jobs-hikvision-camhr-y26
+excerpt: 海康威视2026校园招聘岗位
+categories:
+  - 入职招聘
 tags: []
 halo:
-  site: http://localhost:8090
-  name: 8213c50a-83a8-4858-9fee-1929ef726bc4
-  publish: false
+  site: http://8.152.199.10:8090
+  name: 3eda7ad8-582e-40a3-9087-61f564f123f7
+  publish: true
 ---
-# 海康威视2026校园招聘岗位
+
+<!-- # 海康威视2026校园招聘岗位 -->
 
 ![海康威视2026校园招聘](https://talent.hikvision.com/group1/M00/63/08/CgEL_GitfciAa7dMAAGodJhCpL0793.jpg)
 
-官网请访问：海康威视校园招聘官网 [^1]
+更多信息请访问：[海康威视校园招聘官网↗](https://campushr.hikvision.com/home)
 
 ## 岗位列表
 
 2026校园招聘有如下岗位：
 
-算法/网络安全/大数据类:
+**算法/网络安全/大数据类:**
 
 - [音频算法工程师](#音频算法工程师)
 
@@ -26,6 +29,10 @@ halo:
 
 - [测试工程师](#测试工程师)
 
+软件/嵌入式类：
+
+- [软件开发工程师-BSP](#软件开发工程师-bsp)
+- [软件开发工程师-应用](#软件开发工程师-应用)
 
 未收录岗位：
 
@@ -66,7 +73,7 @@ halo:
 <!--  -->
 ## 测试工程师
 
-[官网投递右上](https://campushr.hikvision.com/JobDetails.html?id=4b6805d5219c4e9db9973afd6eed9adc&type=2&batchId=f6bb29aecd1046d8a431dcb7810664b9)
+[官网投递↗](https://campushr.hikvision.com/JobDetails.html?id=4b6805d5219c4e9db9973afd6eed9adc&type=2&batchId=f6bb29aecd1046d8a431dcb7810664b9)
 
 1、本岗位以远程面试为主，若条件允许，部分站点可能安排现场面试，具体以后续邮件通知为准； 2、本岗位有多个技术方向、工作地点、面试地点，请先选择具体岗位意向。
 
@@ -97,7 +104,7 @@ halo:
 
 
 <!--  -->
-## 软件开发工程师（方向：应用）
+## 软件开发工程师-应用
 
 [官网投递↗](https://campushr.hikvision.com/JobDetails.html?id=c682135b09394d638d6fd7358ca0cabd&type=2&batchId=f6bb29aecd1046d8a431dcb7810664b9)
 
@@ -132,7 +139,7 @@ halo:
 
 
 <!--  -->
-## 软件开发工程师（方向：BSP）
+## 软件开发工程师-BSP
 
 [官网投递↗](https://campushr.hikvision.com/JobDetails.html?id=c682135b09394d638d6fd7358ca0cabd&type=2&batchId=f6bb29aecd1046d8a431dcb7810664b9)
 
@@ -148,21 +155,19 @@ halo:
 
 **职位描述**
 
-1、根据产品和业务需求开发嵌入式系统底层软件，设计和实现软件功能，并编写相应开发文档；
-2、开发、测试和维护产品中各种芯片驱动软件；
-3、对系统软件进行优化，提升系统性能、可靠性和稳定性。
+1. 根据产品和业务需求开发嵌入式系统底层软件，设计和实现软件功能，并编写相应开发文档；
+2. 开发、测试和维护产品中各种芯片驱动软件；
+3. 对系统软件进行优化，提升系统性能、可靠性和稳定性。
 
 **职位要求**
 
-1、本科及以上学历，计算机、电子信息、通信等相关专业优先，对英文技术文档有较好的阅读理解能力；
-2、熟练使用C语言，有汇编语言或脚本语言的使用经验；
-3、熟悉常用总线和接口协议，如I2C、SPI、UART，了解基本网络知识；
-4、了解单片机、ARM、DSP、X86等至少一种芯片架构及组成；
-5、了解操作系统原理，理解中断、进程、内存等基本概念，有Linux/RTOS上驱动或应用程序开发经验或熟悉Android Framework优先。
+1. 本科及以上学历，计算机、电子信息、通信等相关专业优先，对英文技术文档有较好的阅读理解能力；
+2. 熟练使用C语言，有汇编语言或脚本语言的使用经验；
+3. 熟悉常用总线和接口协议，如I2C、SPI、UART，了解基本网络知识；
+4. 了解单片机、ARM、DSP、X86等至少一种芯片架构及组成；
+5. 了解操作系统原理，理解中断、进程、内存等基本概念，有Linux/RTOS上驱动或应用程序开发经验或熟悉Android Framework优先。
 
 **投递意向**：[意向-统招]
-
-
 
 <!--  -->
 ## 意向
@@ -196,6 +201,6 @@ halo:
 [意向-统招]: #意向-统招
 
 <!--  -->
-## 参考资料
+<!-- ## 参考资料
 
-[^1]: [海康威视校园招聘官网↗](https://campushr.hikvision.com/home)
+[^1]: [海康威视校园招聘官网↗](https://campushr.hikvision.com/home) -->

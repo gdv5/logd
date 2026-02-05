@@ -1,4 +1,18 @@
-# Halo建站（阿里云ECS）
+---
+title: Halo建站（阿里云ECS）
+slug: wsb-halo-ecs
+excerpt: 本文描述在阿里云ECS用 Halo 搭建网站的过程。
+categories:
+  - 笔记
+tags: []
+halo:
+  site: http://8.152.199.10:8090
+  name: 1a72a831-08a1-44c2-a3d5-983f7ccf7391
+  publish: true
+---
+<!-- # Halo建站（阿里云ECS） -->
+
+本文描述在阿里云ECS用 Halo 搭建网站的过程。
 
 ## 安装Halo
 
@@ -260,7 +274,7 @@
 
 参考 [Halo插件OAuth2↗] 安装 OAuth2 插件，并做相关配置。
 
-（待续）
+（未完待续）
 
 <!--  -->
 [Halo安装指南↗]: https://docs.halo.run/getting-started/install/docker-compose

@@ -1,22 +1,19 @@
 ---
 title: 内部网站ai2的相关设置
-slug: ai2-setting
+slug: wsb-ai2-setting
 excerpt: 内部网站ai2的相关设置
 categories:
   - 笔记
-  - 手册
-  - 公告
-  - 默认分类
 tags:
   - Halo
 halo:
-  site: http://localhost:8090
-  name: 0542f022-7b5f-4bfb-bd45-db867bf182eb
-  publish: true
+  site: http://8.152.199.10:8090
+  name: 1ef2c198-676a-44fc-84f9-896905e670f9
+  publish: false
 ---
 <!-- # 内部网站ai2的相关设置 -->
 
-本文描述关于内部网站ai2的相关设置。
+本文描述关于内部网站ai2的相关设置，供参考。
 
 ## 安装插件
 
@@ -60,8 +57,8 @@ halo:
 - 如需要技术支持，请联系网站管理员老师 [^1]。
 
 [^1]: 网站管理员老师：董俊杰 / 8202311001，邮箱 [georgedonnev2@outlook.com](mailto:georgedonnev2@outlook.com)。
-<!-- [^1]: 网站管理员老师：董俊杰 / 8202311001，13951031442（手机微信同号），邮箱 [dongjunjie@jiangnan.edu.cn](mailto:dongjunjie@jiangnan.edu.cn)。 -->
 ```
+<!-- [^1]: 网站管理员老师：董俊杰 / 8202311001，13951031442（手机微信同号），邮箱 [dongjunjie@jiangnan.edu.cn](mailto:dongjunjie@jiangnan.edu.cn)。 -->
 
 <!--  -->
 
