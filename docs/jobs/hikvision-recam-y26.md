@@ -1,6 +1,6 @@
 ---
 title: 海康威视2026校园招聘岗位(未完待续)
-slug: jobs-hikvision-camhr-y26
+slug: jobs-hikvision-recam-y26
 excerpt: 海康威视2026校园招聘岗位
 categories:
   - 入职招聘
