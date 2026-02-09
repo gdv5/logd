@@ -12,6 +12,8 @@ halo:
 ---
 <!-- # Halo建站（阿里云ECS） -->
 
+`更新-260208` \| `发布-260131`
+
 本文描述在阿里云ECS用 Halo 搭建网站的过程。
 
 ## 安装Halo
@@ -275,6 +277,13 @@ halo:
 参考 [Halo插件OAuth2↗] 安装 OAuth2 插件，并做相关配置。
 
 （未完待续）
+
+
+## 安装 Nginx
+
+只是尝试下安装 Nginx 作为反向代理，为今后需要反向代理时做准备。
+
+
 
 <!--  -->
 [Halo安装指南↗]: https://docs.halo.run/getting-started/install/docker-compose
